@@ -1,2 +1,0 @@
-# tasktocash.bot
-For microearn
